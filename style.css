@@ -1,0 +1,30 @@
+*{
+    background-color: black;
+    
+}
+
+div {
+    width: 800px;
+    border: 5px solid white;
+    margin-left: 25%;
+    margin-top: 80px;    
+}
+
+#Heading {
+    font-family: "Libre Baskerville";
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+}
+
+#Pic {
+   align-items: center;
+   width: 800px;
+  
+
+}
+
+#Note {
+    text-align: center;
+    color: white;
+}
